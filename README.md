@@ -12,10 +12,21 @@ Flask server API's
 
      product analyse api http://127.0.0.1:5000/product
 --------------------------------------------------------
-MongoDB Database link localhost:27017/mdb
+MongoDB Database link 
+
+     localhost:27017/mdb
 MongoDB database collection names
-for login/register  'tblstatuses'
-for saving tweets   'tbltweets'
-for saving filter tweets 'tblfiltertweet'
-for saving final result  'tbltweetresult'
+
+for login/register  
+
+     'tblstatuses'
+for saving tweets   
+     
+	 'tbltweets'
+for saving filter tweets 
+
+     'tblfiltertweet'
+for saving final result  
+ 
+     'tbltweetresult'
 --------------------------------------------------------
