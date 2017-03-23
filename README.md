@@ -1,4 +1,4 @@
-This project analyses products through twitter. 
+This project analyses products through sentiment analysis of tweets. 
 Currently implemented for Mobile Phones. 
 User Have to give Mobile name like MOtoG5Plus then user will see result as a piechart like how many positive, negative reviews that product have.
 --------------------------------------------------------
